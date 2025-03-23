@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Product Backlog",
+    "color": "1d76db",
+    "description": "Initial product ideas"
+  },
+  {
+    "name": "Sprint Backlog",
+    "color": "0e8a16",
+    "description": "Stories in current sprint"
+  },
+  {
+    "name": "technical debt",
+    "color": "d93f0b",
+    "description": "Technical debt tasks"
+  },
+  {
+    "name": "estimate: 1",
+    "color": "cccccc"
+  },
+  {
+    "name": "estimate: 2",
+    "color": "bbbbbb"
+  },
+  {
+    "name": "estimate: 3",
+    "color": "aaaaaa"
+  },
+  {
+    "name": "in progress",
+    "color": "ffcc00"
+  }
+]
